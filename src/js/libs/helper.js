@@ -1,0 +1,5 @@
+//Так приятней :)
+window.log = function(param){
+    console.log(param);
+};
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJsaWJzL2hlbHBlci5qcyJdLCJzb3VyY2VzQ29udGVudCI6WyIvL9Ci0LDQuiDQv9GA0LjRj9GC0L3QtdC5IDopXHJcbndpbmRvdy5sb2cgPSBmdW5jdGlvbihwYXJhbSl7XHJcbiAgICBjb25zb2xlLmxvZyhwYXJhbSk7XHJcbn07Il0sImZpbGUiOiJsaWJzL2hlbHBlci5qcyJ9
